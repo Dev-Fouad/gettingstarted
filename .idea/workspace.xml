@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3a96d6-0193-49c9-b5c1-5de9358e5214" name="Changes" comment="Conditional statement">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NestedConditionals.java" afterDir="false" />
+    <list default="true" id="3f3a96d6-0193-49c9-b5c1-5de9358e5214" name="Changes" comment="Nested Conditional statement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fouad damisi/IdeaProjects/JavalearningP&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Fouad damisi/IdeaProjects/untitled/src/main/java/org/example/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -73,10 +72,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedConditionals">
+  <component name="RunManager" selected="Application.ConditionalStatement">
     <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ConditionalStatement" />
-      <module name="Java project1" />
+      <module name="JavalearningP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -116,19 +115,12 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedConditionals" />
         <item itemvalue="Application.ConditionalStatement" />
+        <item itemvalue="Application.NestedConditionals" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -140,6 +132,7 @@
       <updated>1714636148455</updated>
       <workItem from="1714657026581" duration="25000" />
       <workItem from="1714657214997" duration="18000" />
+      <workItem from="1715984545395" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="My first commit">
       <option name="closed" value="true" />
@@ -157,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714648923995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nested Conditional statement">
+      <option name="closed" value="true" />
+      <created>1714657696850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714657696850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +176,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My first commit" />
     <MESSAGE value="Conditional statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement" />
+    <MESSAGE value="Nested Conditional statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested Conditional statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

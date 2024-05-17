@@ -19,7 +19,7 @@ public class ConditionalStatement {
             System.out.println("You are not young nor old");
         }
         else {
-            System.out.println("You are old");
+            System.out.println("You old");
         }
     }
 }

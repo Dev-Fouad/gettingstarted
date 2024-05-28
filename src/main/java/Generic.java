@@ -11,6 +11,7 @@ class Example <E> {
     public E getI() {
         return i;
     }
+
 }
 
 public class Generic {

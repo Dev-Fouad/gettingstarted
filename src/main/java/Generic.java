@@ -13,7 +13,6 @@ class Example <E> {
     }
 }
 
-
 public class Generic {
     public static void main(String[] args) {
         Example <Integer> e = new Example <Integer>();

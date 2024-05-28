@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3a96d6-0193-49c9-b5c1-5de9358e5214" name="Changes" comment="JAVA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f3a96d6-0193-49c9-b5c1-5de9358e5214" name="Changes" comment="Setting Generic classes in Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716159442181</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Setting Generic classes in Java">
+      <option name="closed" value="true" />
+      <created>1716894794105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716894794105</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +224,8 @@
     <MESSAGE value="Conditional statement" />
     <MESSAGE value="Nested Conditional statement" />
     <MESSAGE value="JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA" />
+    <MESSAGE value="Setting Generic classes in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting Generic classes in Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -34,4 +34,4 @@ public class Generic {
     }
 }
 
-//Setting Generic Classes in Java
+//Setting Generic Classes in Java.
